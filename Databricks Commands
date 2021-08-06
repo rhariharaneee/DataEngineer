@@ -1,0 +1,8 @@
+dbutils.widgets.text("name","2020")
+
+var z = dbutils.widgets.get("name")
+
+dbutils.notebook.exit(<nameofdf>)
+
+@actitity('Notebook1').output.runOutput
+
